@@ -8,4 +8,3 @@ OpenPifPaf
 其中着重标注了Encoder与Decoder部分。包括functional.pyx、utils.py，
 encoder中的pif、paf、utils、annrescaler，
 decoder中的pif、pifpaf、utils。其中note.pdf是我自己整理的关于Encoder与Decoder过程的笔记。
-a 
